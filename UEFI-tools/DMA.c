@@ -16,6 +16,9 @@
 #include <Library/ReportStatusCodeLib.h>
 #include <Library/PcdLib.h>
 
+//What the fuck it's DMA
+
+
 // logical block address
 typedef UINT64 EFI_LBA;  
 
